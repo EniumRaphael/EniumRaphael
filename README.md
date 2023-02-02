@@ -16,16 +16,12 @@
 ## 📝 ๑ IDE
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> 
 
-## 🖥️ ๑ Computers
-
-<img src="https://img.shields.io/badge/Mac%20ARM-333333?style=for-the-badge&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/> <br>
-<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/> <img src="https://img.shields.io/badge/Intel-0071C5.svg?style=for-the-badge&logo=Intel&logoColor=white">
-
 
 ## 🧰 ๑ IT Softwares
-<img src="https://img.shields.io/badge/CodinGame-F2BB13.svg?style=for-the-badge&logo=CodinGame&logoColor=black"/><img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Books-3884FF.svg?style=for-the-badge&logo=GitBook&logoColor=white">
+<img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Books-3884FF.svg?style=for-the-badge&logo=GitBook&logoColor=white">
 
 ## 🎓 ๑ Learn
-<img src="https://img.shields.io/badge/42-000000.svg?style=for-the-badge&logo=42&logoColor=white"> <img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white"> <img src="https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white">
+<img src="https://img.shields.io/badge/42-000000.svg?style=for-the-badge&logo=42&logoColor=white"> 
+<img src="https://img.shields.io/badge/CodinGame-F2BB13.svg?style=for-the-badge&logo=CodinGame&logoColor=black"/> <img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white"> <img src="https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white">
 
 </div>
