@@ -3,7 +3,7 @@
 <div align="center">
 <h2>👋 ๑ Hi, I'm Raphael !</h2>
 <a href="https://discord.com/users/744708155778531418">
-<img src="https://discord.c99.nl/widget/theme-4/744708155778531418.png"/>
+<img src="https://media.discordapp.net/attachments/981896326092578816/1122477598556045413/Raphael.png?width=960&height=320"/>
 <a>
 </div>
 
