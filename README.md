@@ -8,5 +8,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=EniumRaphael&show_icons=true&theme=dracula&?count_private=true&include_all_commits=true" length="150" width="450"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EniumRaphael&layout=compact&theme=dracula" length="150" width="450">
 <br>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/EniumRaphael.png" alt="TryHackMe">
+     <a href="https://tryhackme.com/p/EniumRaphael"><img src="https://tryhackme-badges.s3.amazonaws.com/EniumRaphael.png" alt="TryHackMe"></a>
 </div>
