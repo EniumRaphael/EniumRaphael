@@ -1,5 +1,4 @@
 <div align="center">
-  
   <table>
     <tr>
       <th>Sources</th>
@@ -7,7 +6,7 @@
     </tr>
     <tr>
       <td>42</td>
-      <td><img src="https://badge.emaugale.com/api/v2/clwxjf9nh018901qkyjwa6wxi/stats?cursusId=21&coalitionId=107"></td>
+      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/stats?cursusId=21&coalitionId=47"></td>
     </tr>
     <tr>
       <td>Github</td>
@@ -23,47 +22,47 @@
     </tr>
     <tr>
       <td>Libft</td>
-      <td><img src="https://badge.emaugale.com/api/v2/clwxjf9nh018901qkyjwa6wxi/project/3393022"></td>
+      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3393022"></td>
     </tr>
     <tr>
       <td>Printf</td>
-      <td><img src="https://badge.emaugale.com/api/v2/clwxjf9nh018901qkyjwa6wxi/project/3408427"></td>
+      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3408427"></td>
     </tr>
     <tr>
       <td>GNL</td>
-      <td><img src="https://badge.emaugale.com/api/v2/clwxjf9nh018901qkyjwa6wxi/project/3414704"></td>
+      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3414704"></td>
     </tr>
     <tr>
       <td>B2B</td>
-      <td><img src="https://badge.emaugale.com/api/v2/clwxjf9nh018901qkyjwa6wxi/project/3410415"></td>
+      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3410415"></td>
     </tr>
     <tr>
       <td>Exam02</td>
-      <td><img src="https://badge.emaugale.com/api/v2/clwxjf9nh018901qkyjwa6wxi/project/3427845"></td>
+      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3427845"></td>
     </tr>
     <tr>
       <td>So_Long</td>
-      <td><img src="https://badge.emaugale.com/api/v2/clwxjf9nh018901qkyjwa6wxi/project/3427953"></td>
+      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3427953"></td>
     </tr>
     <tr>
       <td>Pipex</td>
-      <td><img src="https://badge.emaugale.com/api/v2/clwxjf9nh018901qkyjwa6wxi/project/3427929"></td>
+      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3427929"></td>
     </tr>
     <tr>
       <td>PushSwap</td>
-      <td><img src="https://badge.emaugale.com/api/v2/clwxjf9nh018901qkyjwa6wxi/project/3427955"></td>
+      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3427955"></td>
     </tr>
     <tr>
       <td>Exam03</td>
-      <td><img src="https://badge.emaugale.com/api/v2/clwxjf9nh018901qkyjwa6wxi/project/3655144"></td>
+      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3655144"></td>
     </tr>
     <tr>
       <td>Minishell</td>
-      <td><img src="https://badge.emaugale.com/api/v2/clwxjf9nh018901qkyjwa6wxi/project/3655150"></td>
+      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3655150"></td>
     </tr>
     <tr>
       <td>Philosophers</td>
-      <td><img src="https://badge.emaugale.com/api/v2/clwxjf9nh018901qkyjwa6wxi/project/3655149"></td>
+      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3655149"></td>
     </tr>
   </table>
   
