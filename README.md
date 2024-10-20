@@ -64,6 +64,18 @@
       <td>Philosophers</td>
       <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3655149"></td>
     </tr>
+    <tr>
+      <td>Cub3D</td>
+      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3977670"></td>
+    </tr>
+    <tr>
+      <td>Netpractice</td>
+      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3977257"></td>
+    </tr>
+    <tr>
+      <td>Piscine C++ #00</td>
+      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3977259"></td>
+    </tr>
   </table>
   
 </div>
