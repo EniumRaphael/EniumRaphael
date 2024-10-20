@@ -5,8 +5,16 @@
       <th>Stats</th>
     </tr>
     <tr>
-      <td>42</td>
-      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/stats?cursusId=21&coalitionId=47"></td>
+      <td>42 Piscine</td>
+      <td>
+              <img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/stats?cursusId=9&coalitionId=107">        
+      </td>
+    </tr>
+    <tr>
+      <td>42 Cursus</td>
+      <td>
+        <img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/stats?cursusId=21&coalitionId=47">
+      </td>
     </tr>
     <tr>
       <td>Github</td>
