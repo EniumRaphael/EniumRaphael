@@ -1,152 +1,51 @@
-<h1 align="center">Hey, I'm Raphaël 👋</h1>
+# 💻 Tech Stack
+![Neovim](https://skillicons.dev/icons?i=neovim) ![C++](https://skillicons.dev/icons?i=cpp) ![C](https://skillicons.dev/icons?i=c) ![Arduino](https://skillicons.dev/icons?i=arduino) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Linux](https://skillicons.dev/icons?i=linux) ![Docker](https://skillicons.dev/icons?i=docker) ![Bash](https://skillicons.dev/icons?i=bash) ![NixOS](https://skillicons.dev/icons?i=nix) ![Grafana](https://skillicons.dev/icons?i=grafana) ![Nginx](https://skillicons.dev/icons?i=nginx) ![Git](https://skillicons.dev/icons?i=git)
 
-<br>
+---
 
-<h3 align="center">🧰 I am confident in the following technologies !</h3>
+# 📊 GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=EniumRaphael&theme=nord&hide_border=true&include_all_commits=true&count_private=true)
 
-###
+![](https://github-readme-streak-stats.herokuapp.com/?user=EniumRaphael&theme=nord&hide_border=true)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nixos/5277C3" height="40" alt="nixos logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EniumRaphael&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-###
-<br>
+## 🏆 GitHub Trophies
+![](https://github-trophies.vercel.app/?username=EniumRaphael&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="center"><span style="margin-right: 1em;">🔥</span> Here's my Github statistics</h3>
+---
 
-###
+# 🎓 Cursus 42
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EniumRaphael&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=EniumRaphael&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=EniumRaphael&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EniumRaphael&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+## 📊 Statistics
 
+| Track        | Progress |
+|--------------|----------|
+| 42 Piscine   | ![](https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/stats?cursusId=9&coalitionId=107) |
+| 42 Cursus    | ![](https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/stats?cursusId=21&coalitionId=47) |
 
-<h3 align="center">🎓 Here's my 42 projects</h3>
-<br>
-<div align="center">
-  <table>
-    <tr>
-      <th>Project</th>
-      <th>Grade</th>
-    </tr>
-    <tr>
-      <td> 
-        <a href="https://github.com/EniumRaphael/libft/tree/rendu" target="_blank">Libft</a>
-      </td>
-      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3393022"></td>
-    </tr>
-      <td> 
-        <a href="https://github.com/EniumRaphael/ft_printf" target="_blank">ft_printf</a>
-      </td>
-      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3408427"></td>
-    <tr>
-      <td>
-		  <a href="https://github.com/EniumRaphael/get_next_line" target="_blank">GNL</a>
-	  </td>
-      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3414704"></td>
-    </tr>
-    <tr>
-      <td>B2B</td>
-      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3410415"></td>
-    </tr>
-    <tr>
-      <td>Exam02</td>
-      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3427845"></td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/EniumRaphael/so_long" target="_blank">So_long</a>
-      </td>
-      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3427953"></td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/EniumRaphael/pipex" target="_blank">Pipex</a>
-      </td>
-      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3427929"></td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/EniumRaphael/push_swap" target="_blank">PushSwap</a>
-      </td>
-      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3427955"></td>
-    </tr>
-    <tr>
-      <td>Exam03</td>
-      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3655144"></td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Maix0/shcat" target="_blank">Minishell</a>
-      </td>
-      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3655150"></td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/EniumRaphael/philosophers" target="_blank">Philosophers</a>
-      </td>
-      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3655149"></td>
-    </tr>
-    <tr>
-      <td>
-		  <a href="https://github.com/EniumRaphael/Cub3d" target="_blank">Cub3D</a>
-	  </td>
-      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3977670"></td>
-    </tr>
-    <tr>
-      <td>Netpractice</td>
-      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3977257"></td>
-    </tr>
-    <tr>
-      <td>
-		  <a href="https://github.com/EniumRaphael/cpp_piscine/" target="_blank">Piscine C++</a>
-	  </td>
-      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3977259"></td>
-    </tr>
-    <tr>
-      <td>
-		  <a href="https://github.com/EniumRaphael/inception/" target="_blank">Inception</a>
-	  </td>
-      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/4209613"></td>
-    </tr>
-    <tr>
-      <td>
-		  <a href="https://github.com/EniumRaphael/ft_irc/" target="_blank">ft_irc</a>
-	  </td>
-      <td><img src="https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/4294119"></td>
-    </tr>
-  </table>
-</div>
+## 💼 Project
 
+| Project | Grade |
+|---------|-------|
+| [Libft](https://github.com/EniumRaphael/libft/tree/rendu) | ![](https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3393022) |
+| [ft_printf](https://github.com/EniumRaphael/ft_printf) | ![](https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3408427) |
+| [GNL](https://github.com/EniumRaphael/get_next_line) | ![](https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3414704) |
+| B2B | ![](https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3410415) |
+| Exam02 | ![](https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3427845) |
+| [So_long](https://github.com/EniumRaphael/so_long) | ![](https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3427953) |
+| [Pipex](https://github.com/EniumRaphael/pipex) | ![](https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3427929) |
+| [PushSwap](https://github.com/EniumRaphael/push_swap) | ![](https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3427955) |
+| Exam03 | ![](https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3655144) |
+| [Minishell](https://github.com/Maix0/shcat) | ![](https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3655150) |
+| [Philosophers](https://github.com/EniumRaphael/philosophers) | ![](https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3655149) |
+| [Cub3D](https://github.com/EniumRaphael/Cub3d) | ![](https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3977670) |
+| Netpractice | ![](https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3977257) |
+| [Piscine C++](https://github.com/EniumRaphael/cpp_piscine/) | ![](https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/3977259) |
+| [Inception](https://github.com/EniumRaphael/inception/) | ![](https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/4209613) |
+| [ft_irc](https://github.com/EniumRaphael/ft_irc/) | ![](https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/project/4294119) |
+
+---
 
 <div align="center">
 <details>
@@ -201,3 +100,6 @@ Makefile                 1 repo              █░░░░░░░░░░�
 </details>
 
 </div>
+
+---
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23286147)
