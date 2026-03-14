@@ -15,14 +15,13 @@
 
 ---
 
-# 🎓 Cursus 42
+# 💾 [My own git]
 
-## 📊 Statistics
+## Personnal projects
+> https://git.enium.eu/raphael
 
-| Track        | Progress |
-|--------------|----------|
-| 42 Piscine   | ![](https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/stats?cursusId=9&coalitionId=107) |
-| 42 Cursus    | ![](https://badge.nimon.fr/api/v2/clznzduhi357501rsqigse4e0/stats?cursusId=21&coalitionId=47) |
+## 42 projects
+> https://git.enium.eu/rparodi
 
 ---
 
