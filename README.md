@@ -15,13 +15,11 @@
 
 ---
 
-# 💾 [My own git]
+# 💾 My selfhosted git
 
-## Personnal projects
-> https://git.enium.eu/raphael
+> [Personnal projects](https://git.enium.eu/raphael)
 
-## 42 projects
-> https://git.enium.eu/rparodi
+> [42 projects](https://git.enium.eu/rparodi)
 
 ---
 
